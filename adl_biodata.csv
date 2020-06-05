@@ -1,0 +1,101 @@
+﻿id_orang;nama;jen_kel;umur;status;id_covid
+1;A;L;20;Kawin;3
+2;B;P;21;Belum Kawin;2
+3;C;L;19;Kawin;1
+4;D;P;17;Belum Kawin;3
+5;E;L;16;Kawin;2
+6;F;L;28;Belum Kawin;1
+7;G;L;30;Kawin;3
+8;H;P;30;Belum Kawin;2
+9;I;L;17;Kawin;1
+10;J;P;18;Belum Kawin;3
+11;K;L;19;Kawin;2
+12;L;P;21;Belum Kawin;1
+13;M;L;26;Kawin;3
+14;N;P;25;Belum Kawin;2
+15;O;L;18;Kawin;1
+16;P;P;16;Belum Kawin;3
+17;Q;L;18;Kawin;2
+18;R;P;18;Belum Kawin;1
+19;S;L;21;Kawin;3
+20;T;P;20;Belum Kawin;2
+21;U;L;20;Kawin;1
+22;V;P;23;Belum Kawin;3
+23;W;L;23;Kawin;2
+24;X;P;23;Belum Kawin;1
+25;Y;L;29;Kawin;1
+26;Z;P;29;Belum Kawin;1
+27;AA;L;28;Kawin;1
+28;AB;P;29;Belum Kawin;1
+29;AC;L;27;Kawin;1
+30;AD;P;29;Belum Kawin;2
+31;AE;L;28;Kawin;2
+32;AF;P;27;Belum Kawin;2
+33;AG;L;29;Kawin;2
+34;AH;P;28;Belum Kawin;3
+35;AI;L;30;Kawin;3
+36;AJ;P;31;Belum Kawin;3
+37;A;L;32;Kawin;1
+38;B;P;17;Belum Kawin;1
+39;C;L;18;Kawin;1
+40;D;P;19;Belum Kawin;1
+41;E;L;29;Kawin;2
+42;F;P;22;Belum Kawin;2
+43;G;L;28;Kawin;2
+44;H;P;29;Belum Kawin;2
+45;I;L;26;Kawin;3
+46;J;P;25;Belum Kawin;3
+47;K;L;27;Kawin;3
+48;L;P;27;Belum Kawin;5
+49;M;L;27;Kawin;2
+50;N;P;17;Belum Kawin;2
+51;O;L;27;Kawin;1
+52;P;P;27;Belum Kawin;2
+53;Q;L;27;Kawin;2
+54;R;P;27;Belum Kawin;3
+55;S;L;27;Kawin;2
+56;T;P;27;Belum Kawin;1
+57;U;L;27;Kawin;2
+58;V;P;27;Belum Kawin;2
+59;W;L;27;Kawin;2
+60;X;P;27;Belum Kawin;3
+61;Y;L;27;Kawin;2
+62;Z;P;27;Belum Kawin;1
+63;AA;L;18;Kawin;2
+64;AB;P;27;Belum Kawin;3
+65;AC;L;27;Kawin;2
+66;AD;P;27;Belum Kawin;1
+67;AE;L;27;Kawin;2
+68;AF;P;27;Belum Kawin;3
+69;AG;L;27;Kawin;2
+70;AH;P;27;Belum Kawin;1
+71;AI;L;27;Kawin;1
+72;AJ;P;27;Belum Kawin;2
+73;A;L;27;Kawin;3
+74;B;P;27;Belum Kawin;2
+75;C;L;27;Kawin;1
+76;D;P;27;Belum Kawin;1
+77;E;L;27;Kawin;2
+78;F;P;30;Belum Kawin;2
+79;G;L;31;Kawin;3
+80;H;P;25;Belum Kawin;2
+81;I;L;27;Kawin;2
+82;J;P;27;Belum Kawin;1
+83;K;L;27;Kawin;2
+84;L;P;27;Belum Kawin;3
+85;M;L;27;Kawin;2
+86;N;P;27;Belum Kawin;2
+87;O;L;27;Kawin;1
+88;P;P;27;Belum Kawin;2
+89;Q;L;27;Kawin;2
+90;R;P;27;Belum Kawin;2
+91;S;L;18;Kawin;3
+92;T;P;27;Belum Kawin;3
+93;U;L;27;Kawin;3
+94;V;P;27;Belum Kawin;2
+95;W;L;27;Kawin;1
+96;X;P;27;Belum Kawin;2
+97;Y;L;27;Kawin;3
+98;Z;P;27;Belum Kawin;1
+99;AA;L;27;Kawin;2
+100;AB;P;27;Belum Kawin;3
